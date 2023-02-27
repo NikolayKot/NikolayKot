@@ -3,7 +3,7 @@
 
 <p align="center">I am a student from Ekaterinburg, Russia, studying frontend, in particular Vue Js, HTML, CSS.</p>
 <p align="center">I also have experience with Python, C++, Fortran</p>
-<a href="https://www.codewars.com/users/NikolayKot" align="center"><img src="https://www.codewars.com/users/NikolayKot/badges/micro" height="32"/></a>
+<p align="center"><a href="https://www.codewars.com/users/NikolayKot" align="center"><img src="https://www.codewars.com/users/NikolayKot/badges/micro"/></a></p>
 <!--
 **NikolayKot/NikolayKot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

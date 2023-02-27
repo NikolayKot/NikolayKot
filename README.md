@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, my name is Nikolai 👋</h1>
 <h3 align="center">A Russian student from Yekaterinburg studying frontend 🤔</h3>
 
+<p align="center">I am a student from Ekaterinburg, Russia, studying frontend, in particular Vue Js, HTML, CSS.</p>
+
 <!--
 **NikolayKot/NikolayKot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

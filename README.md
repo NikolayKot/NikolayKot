@@ -3,7 +3,7 @@
 
 <p align="center">I am a student from Ekaterinburg, Russia, studying frontend, in particular Vue Js, HTML, CSS.</p>
 <p align="center">I also have experience with Python, C++, Fortran</p>
-<p align="center">https://www.codewars.com/users/Dungeonmasster/badges/small</p>
+[![codewars](https://www.codewars.com/users/Dungeonmasster/badges/small)](https://www.codewars.com/users/Dungeonmasster) 
 <!--
 **NikolayKot/NikolayKot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

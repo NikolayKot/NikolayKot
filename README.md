@@ -2,7 +2,8 @@
 <h3 align="center">A Russian student from Yekaterinburg studying frontend 🤔</h3>
 
 <p align="center">I am a student from Ekaterinburg, Russia, studying frontend, in particular Vue Js, HTML, CSS.</p>
-
+<p align="center">I also have experience with Python, C++, Fortran</p>
+<p align="center">https://www.codewars.com/users/Dungeonmasster/badges/small</p>
 <!--
 **NikolayKot/NikolayKot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
